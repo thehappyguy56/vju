@@ -1,6 +1,7 @@
 telethon
 python-decouple
 hachoir
-ffmpeg
+git+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 motor
 dnspython
+ffprobe
