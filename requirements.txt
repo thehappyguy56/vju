@@ -1,6 +1,6 @@
 telethon
 python-decouple
 hachoir
-ffmpeg-python
+ffmpeg
 motor
 dnspython
